@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Vita Cashier",
+  "description": "نظام كاشير متطور وإدارة مستودع متكامل لـ Vita",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
